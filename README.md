@@ -1,4 +1,4 @@
-# 🎓 School Management System (Java)
+#  School Management System (Java)
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
 ![OOP](https://img.shields.io/badge/Concepts-OOP-blue?style=flat-square)
